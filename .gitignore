@@ -1,4 +1,5 @@
 # !!! NO DIST FOLDER LISTED IN THIS GITIGNORE
+# which means the dist folder will get pushed
 # See line #8 in this file
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,macos,windows,linux,vscode
