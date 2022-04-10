@@ -1,6 +1,6 @@
-# Serverless Functions
+# Serverless Functions - By Dave Gray
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+✅ [Check out my (Dave's) YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 **Description:**
 
